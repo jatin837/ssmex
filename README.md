@@ -13,3 +13,7 @@ A state-space model is formed by:
 # System used
 
 ![Spring Mass Damper system](./static/Translational-mass-with-spring-and-damper.jpg)
+
+The system is governed by the following ordinary differential equation.
+
+![image](https://user-images.githubusercontent.com/63631162/156715645-f58b4d97-6def-4ef7-89c6-f4bc898bd90f.png)
