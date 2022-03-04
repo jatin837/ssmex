@@ -10,3 +10,6 @@ A state-space model is formed by:
 + output equations
 
 
+# System used
+
+![Spring Mass Damper system](./static/Translational-mass-with-spring-and-damper.jpg)
